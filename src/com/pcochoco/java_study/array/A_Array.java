@@ -1,4 +1,4 @@
-package com.pcochoco.java_study;
+package com.pcochoco.java_study.array;
 
 import java.util.Scanner;
 
@@ -51,9 +51,5 @@ public class A_Array {
                 arr2[i][j] = arr[i + j];
             }
         }
-
-
     }
-
-
 }

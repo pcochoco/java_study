@@ -1,4 +1,4 @@
-package com.pcochoco.java_study;
+package com.pcochoco.java_study.variable;
 
 public class A_Variable {
 
